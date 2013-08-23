@@ -1,0 +1,13 @@
+{
+  "name": "jasmine-fx",
+  "version": "0.0.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "jasmine": "*"
+  },
+  "main": "lib/runspecs.js"
+}
