@@ -1,5 +1,5 @@
 {
-  "name": "jasmine-fx",
+  "name": "jasmine-nashorn",
   "version": "0.0.0",
   "ignore": [
     "**/.*",
